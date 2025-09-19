@@ -1,0 +1,35 @@
+
+
+Contact Database Management System
+1. Add Contact 
+2. Display Contact
+3. Exit
+Enter your choice: 1
+
+Enter Name: Sita
+
+Enter Phoneno: 1234
+
+Enter Address: 1/10,Ganesh Street
+
+Enter Email: sita@gmail.com
+Contact added successfully!
+
+Contact Database Management System
+1. Add Contact 
+2. Display Contact
+3. Exit
+Enter your choice: 2
+
+Contact Database:
+Name	Phoneno	 Address  Email
+sita    1234	 1	  1
+
+Contact Database Management System
+1. Add Contact 
+2. Display Contact
+3. Exit
+Enter your choice: 3
+Exiting the program. Goodbye!
+
+
